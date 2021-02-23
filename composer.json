@@ -1,5 +1,5 @@
 {
-    "name": "Pdustdar/goutte",
+    "name": "pdustdar/goutte",
     "description": "Laravel Facade for Goutte, a simple PHP Web Scraper",
     "license": "MIT",
     "keywords": [
